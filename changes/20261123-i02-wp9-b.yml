@@ -1,0 +1,3 @@
+type: added
+breaking: false
+summary: IStorageService (blocks-logic) gains UploadPublicObjectAsync(container, key, stream, contentType) and OpenReadAsync(container, key) on the Azure, AWS, S3-compatible and SFTP services: Azure sets the container access level to Blob, S3 gets a bucket policy on that one bucket (anonymous s3:GetObject only), SFTP throws NotSupportedException.
