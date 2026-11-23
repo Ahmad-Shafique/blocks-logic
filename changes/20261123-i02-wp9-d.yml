@@ -1,0 +1,3 @@
+type: added
+breaking: false
+summary: A separate IntegrationTest project with live tests of the public-object methods of logic's storage services against Azurite and an S3-compatible store (endpoints from TEST_AZURITE_CONNECTION_STRING and TEST_S3_* variables). Not part of the unit run.
