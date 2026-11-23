@@ -1,0 +1,3 @@
+type: added
+breaking: false
+summary: PublicObjectRules and PublicObjectStorageException in Common.InternalService.Storage (internal groundwork for UploadPublicObjectAsync): container and key checks, an S3 public-read bucket-policy merge that keeps existing statements, and the permanent URL of a public object. Nothing calls them yet.
