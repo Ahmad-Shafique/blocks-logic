@@ -1,0 +1,3 @@
+type: changed
+breaking: false
+summary: Second upstream intake (I00-WP22): upstream main brought in, a one-line change each in server/Api/Program.cs and client/public/runtime-config.js (app-switcher fix).
