@@ -1,0 +1,3 @@
+type: added
+breaking: false
+summary: "IdentifierHelper.IsRabbitMq: true for an amqp:// or amqps:// connection string, as in blocks-os, with tests."
